@@ -17,6 +17,12 @@ var DOM = {
 	},
 	strong: function strong() {
 		return DOM.create(arguments.callee.name, arguments);
+	},
+	div: function div() {
+		return DOM.create(arguments.callee.name, arguments);
+	},
+	a: function a() {
+		return DOM.create(arguments.callee.name, arguments);
 	}
 };
 
