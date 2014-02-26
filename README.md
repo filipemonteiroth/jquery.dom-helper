@@ -7,9 +7,9 @@ jquery.dom-helper its a helper to create dynamically html content with jQuery
 How to use
 ==========
 
-Add jquery.dom-helper.js to your html.
+Add jquery.dom-helper.js to your html. ex:
 ```html
-<script type="text/javascript" src="../js/jquery.dom-helper.js"></script>
+<script type="text/javascript" src="js/jquery.dom-helper.js"></script>
 ```
 Example:
 --------
