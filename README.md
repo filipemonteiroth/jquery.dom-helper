@@ -8,9 +8,9 @@ How to use
 ==========
 
 Add jquery.dom-helper.js to your html.
-
+```html
 <script type="text/javascript" src="../js/jquery.dom-helper.js"></script>
-
+```
 Example:
 --------
 
